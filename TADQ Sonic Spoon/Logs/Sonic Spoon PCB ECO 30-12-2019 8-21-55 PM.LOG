@@ -1,0 +1,2 @@
+Change Component Footprint: Designator=USB1 Old Footprint=E8144-B02022-L New Footprint=Amphenol FCI 10103594-0001LF
+Added Member To Class: ClassName=Power Supply Member=Component BATT1 Single Cell LiPo

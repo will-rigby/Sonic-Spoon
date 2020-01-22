@@ -1,0 +1,4 @@
+Added Component: Designator=P1(S2B-XH-A(LF)(SN))
+Added Pin To Net: NetName=ELECTRODE Pin=P1-1
+Added Pin To Net: NetName=ELECTRODE Pin=P1-2
+Added Member To Class: ClassName=Power Supply Member=Component P1 Electrode
